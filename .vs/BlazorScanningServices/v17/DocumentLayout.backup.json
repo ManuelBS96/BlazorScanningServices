@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\iservices\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\iservices\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\iservices\\ibaseassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\iservices\\ibaseassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\services\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\services\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\blazorscanningservices\\blazorscanningservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54A0923E-9290-4775-9310-D97DEE36B274}|BlazorScanningServices\\BlazorScanningServices.csproj|solutionrelative:blazorscanningservices\\blazorscanningservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\services\\baseassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\services\\baseassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|c:\\users\\manuelbs\\source\\repos\\blazorscanningservices\\services\\servicelifetimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C2AD6-07B1-49A5-B695-EC228585BB34}|Services\\Services.csproj|solutionrelative:services\\servicelifetimeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:41:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:38:28.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "Services\\IServices\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:17:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "Services\\Services\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:33:16.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:30:53.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorScanningServices\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T15:52:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\ICalculatorService.cs",
+              "RelativeToolTip": "Services\\IServices\\ICalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:18:14.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseAssembly.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IBaseAssembly.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IBaseAssembly.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\IServices\\IBaseAssembly.cs",
+              "RelativeToolTip": "Services\\IServices\\IBaseAssembly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:16:23.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\Program.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Program.cs",
+              "RelativeToolTip": "BlazorScanningServices\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:48:52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorScanningServices\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T15:54:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorScanningServices\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T16:31:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Services\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\Services\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\Services\\ServicesExtensions.cs",
+              "RelativeToolTip": "BlazorScanningServices\\Services\\ServicesExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:36:12.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T15:13:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlazorScanningServices",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\BlazorScanningServices.csproj",
+              "RelativeDocumentMoniker": "BlazorScanningServices\\BlazorScanningServices.csproj",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\BlazorScanningServices.csproj",
+              "RelativeToolTip": "BlazorScanningServices\\BlazorScanningServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T15:39:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseAssembly.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\BaseAssembly.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\BaseAssembly.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\Services\\BaseAssembly.cs",
+              "RelativeToolTip": "Services\\Services\\BaseAssembly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:16:36.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceLifetimeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\ServiceLifetimeAttribute.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceLifetimeAttribute.cs",
+              "ToolTip": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\Services\\ServiceLifetimeAttribute.cs",
+              "RelativeToolTip": "Services\\ServiceLifetimeAttribute.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T15:14:26.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\bin\Debug\net8.0\Services.dll
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.dll
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\ManuelBS\source\repos\BlazorScanningServices\Services\obj\Debug\net8.0\ref\Services.dll

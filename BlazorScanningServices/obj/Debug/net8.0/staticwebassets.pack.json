@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorScanningServices.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorScanningServices.mhl02ddcs3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ManuelBS\\source\\repos\\BlazorScanningServices\\BlazorScanningServices\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorScanningServices.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorScanningServices.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorScanningServices.props",
+      "PackagePath": "build\\BlazorScanningServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorScanningServices.props",
+      "PackagePath": "buildMultiTargeting\\BlazorScanningServices.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorScanningServices.props",
+      "PackagePath": "buildTransitive\\BlazorScanningServices.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

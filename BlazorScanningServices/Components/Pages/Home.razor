@@ -1,0 +1,71 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@using Services.IServices
+
+@inject ICalculatorService _calService
+@inject IAuthService _authService
+@inject IEmailService _emailService
+
+
+<PageTitle>Home</PageTitle>
+
+<h1>Ejemplo de escaneo y agregado de servicios de forma automática</h1>
+
+<p>A Sccoped Service Example</p>
+<button class="btn btn-primary" @onclick="Operacion">Sumar</button>
+<p> Result = @result</p>
+
+<p>A Transient Service Example</p>
+<button class="btn btn-primary" @onclick="SendEmail">Send Email</button>
+<p>
+	 @if(string.IsNullOrEmpty(messageEmail) == false){
+		 <label>@messageEmail</label>
+	 }
+</p>
+
+<p>A Singleton Service Example</p>
+<button class="btn btn-primary" @onclick="Authenticate">Authenticate</button>
+<p>
+	@if(bAuth){
+		<label>Autenticado</label>
+	}else{
+		<label>No Autenticado</label>
+
+	}
+
+</p>
+
+
+
+@code{
+	int result = 0;
+	string messageEmail = string.Empty;
+	bool bAuth = false;
+
+	protected override async Task OnInitializedAsync(){
+
+	}
+
+
+	private void IncrementCount(MouseEventArgs e)
+	{
+		throw new NotImplementedException();
+	}
+	private void Operacion()
+	{
+		int a = 12, b = 10;
+
+		result = _calService.Sumar(a,b);
+
+	}
+
+	private async Task SendEmail()
+	{
+		messageEmail = await _emailService.SendEmail("example@gmail.com");
+	}
+
+	private async Task Authenticate()
+	{
+		bAuth = await _authService.Authenticate("Person 1");
+	}
+}
